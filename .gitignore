@@ -1,0 +1,11 @@
+.*
+!.gitignore
+!.gitkeep
+!.dockerignore
+!.env.example
+
+__pycache__/
+*.py[cod]
+
+local/
+node_modules/
